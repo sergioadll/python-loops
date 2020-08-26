@@ -7,5 +7,10 @@ incomingAJAXData = [
 ]
 
 #Your code go here:
+transformedData=""
 
+def my_var(arg):
+    transformedData=arg["name"]+" "+arg["lastName"]
+    return transformedData
+print(list(map(my_var,incomingAJAXData)))
 
