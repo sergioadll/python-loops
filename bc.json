@@ -430,7 +430,7 @@
         {
             "slug": "13-Filter_list",
             "title": "13-Filter_list",
-            "done": false,
+            "done": true,
             "path": "exercises/13-Filter_list",
             "translations": [
                 "es",
@@ -441,7 +441,7 @@
         {
             "slug": "13.1-Filter_and_list",
             "title": "13.1-Filter_and_list",
-            "done": false,
+            "done": true,
             "path": "exercises/13.1-Filter_and_list",
             "translations": [
                 "us"
@@ -451,7 +451,7 @@
         {
             "slug": "13.2-filter_done_tasks",
             "title": "13.2-filter_done_tasks",
-            "done": false,
+            "done": true,
             "path": "exercises/13.2-filter_done_tasks",
             "translations": [
                 "es",
@@ -462,7 +462,7 @@
         {
             "slug": "13.3-Filter_list_strings",
             "title": "13.3-Filter_list_strings",
-            "done": false,
+            "done": true,
             "path": "exercises/13.3-Filter_list_strings",
             "translations": [
                 "es",
@@ -473,7 +473,7 @@
         {
             "slug": "13.4-Making_HTML_with_filter_and_maP",
             "title": "13.4-Making_HTML_with_filter_and_maP",
-            "done": false,
+            "done": true,
             "path": "exercises/13.4-Making_HTML_with_filter_and_maP",
             "translations": [
                 "es",
@@ -494,7 +494,7 @@
         {
             "slug": "14.2-letter_counter",
             "title": "14.2-letter_counter",
-            "done": false,
+            "done": true,
             "path": "exercises/14.2-letter_counter",
             "translations": [
                 "es",
@@ -516,7 +516,7 @@
         {
             "slug": "15.2-Parking_lot_check",
             "title": "15.2-Parking_lot_check",
-            "done": false,
+            "done": true,
             "path": "exercises/15.2-Parking_lot_check",
             "translations": [
                 "es",

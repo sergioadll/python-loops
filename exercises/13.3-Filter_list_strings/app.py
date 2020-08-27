@@ -7,3 +7,8 @@ names = ['Liam','Emma','Noah','Olivia','William','Ava','James','Isabella','Logan
 
 
 #Your code go here:
+def amfilter(name):
+    if "am" in name :
+        return name
+amstring = list(filter(amfilter,names))
+print(amstring)

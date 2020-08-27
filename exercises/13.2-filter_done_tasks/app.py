@@ -9,7 +9,12 @@ tasks = [
 	{ "label": 'Read a book', "done": True },
 	{ "label": 'Make a trip', "done": False }
 ]
-
+    
 
 #Your code go here:
+def filterDone(task):
+    if task["done"]==True:
+        return task
 
+doneTasks=list(filter(filterDone,tasks))
+print(doneTasks)
